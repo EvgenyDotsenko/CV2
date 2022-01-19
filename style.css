@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
+
+body {
+  font-family: "Dongle", sans-serif;
+  background-image: url(https://cdn.wallpapersafari.com/22/32/RWg5f1.png);
+  padding: 100px 0;
+}
+
+.container {
+  width: 800px;
+  min-height: 800px;
+  border: 10px solid white;
+  margin: 0 auto;
+  background: #fff;
+}
